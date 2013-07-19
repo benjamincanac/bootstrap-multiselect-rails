@@ -12,7 +12,8 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/benjamincanac/bootstrap-multiselect-rails"
   s.summary     = "Add Bootstrap Multiselect to your rails app."
   s.description = "Add Bootstrap Multiselect to your rails app. See https://github.com/davidstutz/bootstrap-multiselect for more information about bootstrap-multiselect."
-
+  s.license     = 'MIT'
+  
   s.files = Dir["{app,config,db,lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc", "README.md"]
   s.test_files = Dir["test/**/*"]
 
