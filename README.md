@@ -16,11 +16,11 @@ And then execute:
 
 In `application.js`:
 
-    //= require bootstrap-multiselect-rails
+    //= require bootstrap-multiselect
 
 In `application.css`:
 
-    *= require bootstrap-multiselect-rails
+    *= require bootstrap-multiselect
 
 ## License
 
