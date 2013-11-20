@@ -13,11 +13,11 @@ Gem::Specification.new do |s|
   s.summary     = "Add Bootstrap Multiselect to your rails app."
   s.description = "Add Bootstrap Multiselect to your rails app. See https://github.com/davidstutz/bootstrap-multiselect for more information about bootstrap-multiselect."
   s.license     = 'MIT'
-  
+
   s.files = Dir["{app,config,db,lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc", "README.md"]
   s.test_files = Dir["test/**/*"]
 
-  s.add_dependency "rails", "~> 3.2.13"
+  s.add_dependency "railties", ">= 3.2.0", "< 5.0"
 
   s.add_development_dependency "sqlite3"
 end
