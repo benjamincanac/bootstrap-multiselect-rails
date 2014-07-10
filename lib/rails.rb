@@ -1,4 +1,4 @@
-require "bootstrap-multiselect/version"
+require "bootstrap-multiselect/rails/version"
 
 module BootstrapMultiselect
 	module Rails
