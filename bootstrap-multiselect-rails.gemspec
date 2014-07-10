@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "bootstrap-multiselect/rails/version"
+require "bootstrap/multiselect/rails/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap-multiselect-rails"
-  spec.version       = BootstrapMultiselect::Rails::VERSION
+  spec.version       = Bootstrap::Multiselect::Rails::VERSION
   spec.authors       = ["Benjamin Canac"]
   spec.email         = ["canacb1@gmail.com"]
   spec.description   = %q{Add Bootstrap Multiselect to your rails app. See https://github.com/davidstutz/bootstrap-multiselect for more information about bootstrap-multiselect.}
