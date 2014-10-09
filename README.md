@@ -1,6 +1,6 @@
 # Bootstrap Multiselect Rails
 
-Easily add [bootstrap-multiselect v0.9.5](https://github.com/davidstutz/bootstrap-multiselect.git) to your Rails application using the asset pipeline.
+Easily add [bootstrap-multiselect v0.9.9](https://github.com/davidstutz/bootstrap-multiselect.git) to your Rails application using the asset pipeline.
 
 ## Installation
 
