@@ -1,5 +1,5 @@
 module BootstrapMultiselect
   module Rails
-    VERSION = '0.9.13'
+    VERSION = '0.9.15'
   end
 end
